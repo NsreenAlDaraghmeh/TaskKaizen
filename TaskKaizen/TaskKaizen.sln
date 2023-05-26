@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskKaizen", "TaskKaizen\TaskKaizen.csproj", "{C6419402-B362-4391-9A63-A0AC7F90F112}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6419402-B362-4391-9A63-A0AC7F90F112}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6419402-B362-4391-9A63-A0AC7F90F112}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6419402-B362-4391-9A63-A0AC7F90F112}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6419402-B362-4391-9A63-A0AC7F90F112}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0FFC460-2CBD-450D-9F04-7986FCF71BEB}
+	EndGlobalSection
+EndGlobal
